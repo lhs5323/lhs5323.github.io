@@ -22,7 +22,7 @@
 - Tech : Kotlin(Android), Firebase
 
 ---
-[project 4 아래아한글자판키포드개발]
+[project 4 아래아한글자판키보드개발]
 <img src="images/중국어 아래아 한글.PNG?raw=true"/>
 - Description: 2020 09월 중국어 성조표기 한글자판키보드 개발
 - Tech : WPF, QWerty
@@ -46,5 +46,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
