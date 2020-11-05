@@ -40,7 +40,7 @@
 
 [project 6 그 외 토이프로젝트](https://github.com/lhs5323?tab=repositories)
 
-### 그외 이력 및 기술
+### 그 외 이력 및 기술
 - 차차 쌓아가도록 함
 - [국문 Resume](/pdf/resume_이현석_국문.pdf)
 - [영문 Resume](/pdf/Resume_HyunsukLee.pdf)
