@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 ICT 문화 예술 융합 공모 프로젝트](/sample_page)
+<img src="images/ICT 공모전 '흔적' pdf.pdf?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
