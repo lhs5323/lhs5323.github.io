@@ -19,18 +19,21 @@
 
 ---
 [Project 3 와인검색 앱](/pdf/Design concept_vigne_0910 (2).pdf)
-<img src="images/Logo 2.png?raw=true"/>
+
+<img src="images/vigne.png?raw=true"/>
 - Description: 2020 07월 와인검색 앱 제작
 - Tech : Kotlin(Android), Firebase
 
 ---
 [project 4 아래아한글자판키보드개발]
+
 <img src="images/중국어 아래아 한글.PNG?raw=true"/>
 - Description: 2020 09월 중국어 성조표기 한글자판키보드 개발
 - Tech : WPF, QWerty
 
 ---
 [project 5 캠폐인 프로젝트 웹 배포]
+
 <img src="images/aws.PNG?raw=true"/>
 - Description: 2016 07월 미국 대선 캠페인 웹 제작(마이그래이션)
 - Tech : Ruby on Rails, Heroku -> AWS Elastic Beanstalk
