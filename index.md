@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Project 1 ICT 문화 예술 융합 공모 프로젝트](/pdf/ICT 공모전 '흔적' pdf.pdf)
+[Project 1 흔적 어플리케이션](/pdf/ICT 공모전 '흔적' pdf.pdf)
 <img src="images/흔적 thumbnail.PNG?raw=true"/>
 
 - 2017 11월 미래창조과학부 주최 ICT 문화예술 융합 공모전 입상작(애플리케이션 부문)
