@@ -11,7 +11,7 @@
 
 ---
 [Project 2 ERP 건설앱](/pdf/건설앱설계서.pdf)
-<img src="건설 thmb.PNG?raw=true"/>
+<img src="건설 thmb.PN?raw=true"/>
 - Description: 2020 04월 소규모 건설현장 자동화 앱 제작
 - Tech : Java(Android), Firebase
 
