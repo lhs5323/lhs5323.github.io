@@ -4,9 +4,10 @@
 
 ### Projects 
 
-[Project 1 ICT 문화 예술 융합 공모 프로젝트](/sample_page)
-<img src="images/ICT 공모전 '흔적' pdf.pdf?raw=true"/>
-
+[Project 1 ICT 문화 예술 융합 공모 프로젝트](/images/ICT 공모전 '흔적' pdf.pdf)
+<img src="images/흔적 thumbnail.PNG?raw=true"/>
+- 2017 11월 미래창조과학부 주최 ICT 문화예술 융합 공모전 입상작(애플리케이션 부문)
+- Tech : Java(Android), Realm
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
