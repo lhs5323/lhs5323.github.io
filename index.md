@@ -5,12 +5,14 @@
 ### Projects 
 
 [Project 1 흔적 어플리케이션](/pdf/ICT 공모전 '흔적' pdf.pdf)
+
 <img src="images/흔적 thumbnail.PNG?raw=true"/>
 - Description: 2017 11월 미래창조과학부 주최 ICT 문화예술 융합 공모전 입상작
 - Tech : Java(Android), Realm
 
 ---
 [Project 2 ERP 건설앱](/pdf/건설앱설계서.pdf)
+
 <img src="images/construction.PNG?raw=true"/>
 - Description: 2020 04월 소규모 건설현장 자동화 앱 제작
 - Tech : Java(Android), Firebase
