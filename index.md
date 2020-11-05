@@ -20,7 +20,7 @@
 ---
 [Project 3 와인검색 앱](/pdf/Design concept_vigne_0910 (2).pdf)
 
-<img src="images/vigne.png?raw=true"/>
+<img src="images/vigne.PNG?raw=true"/>
 - Description: 2020 07월 와인검색 앱 제작
 - Tech : Kotlin(Android), Firebase
 
