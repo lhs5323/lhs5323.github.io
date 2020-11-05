@@ -9,14 +9,14 @@
 - Tech : Java(Android), Realm
 
 ---
-[Project 2 ERP 건설앱](/pdf/건설앱 UI-UX-설계서 (2).pdf)
+[Project 2 ERP 건설앱](/pdf/건설앱설계서.pdf)
 <img src="건설 thmb.PNG?raw=true"/>
 - Description: 2020 04월 소규모 건설현장 자동화 앱 제작
 - Tech : Java(Android), Firebase
 
 ---
 [Project 3 와인검색 앱](/pdf/Design concept_vigne_0910 (2).pdf)
-<img src="images/logo 2.png?raw=true"/>
+<img src="images/Logo 2.png?raw=true"/>
 - Description: 2020 07월 와인검색 앱 제작
 - Tech : Kotlin(Android), Firebase
 
