@@ -10,7 +10,7 @@
 - Tech : Java(Android), Realm
 
 ---
-[Project 2 ERP 건설 앱](/pdf/건설앱 UI-UX-설계서 (2).pdf)
+[Project 2 ERP 건설앱](/pdf/건설앱 UI-UX-설계서 (2).pdf)
 <img src="KakaoTalk_20201106_055218538.jpg?raw=true"/>
 - Description: 2020 04월 소규모 건설현장 자동화 앱 제작
 - Tech : Java(Android), Firebase
