@@ -22,7 +22,7 @@
 
 <img src="images/vigne.PNG?raw=true"/>
 - Description: 2020 07월 와인검색 앱 제작
-- Tech : Kotlin(Android), Firebase
+- Tech : Kotlin(Android) -> Flutter Migration, Firebase
 
 ---
 [project 4 아래아한글자판키보드개발]
